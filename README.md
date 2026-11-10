@@ -1,4 +1,8 @@
-Banking Management System
+- ## Banking Management System
+
+- <p align="center">
+  <img src="Bank.PNG" alt="Bank" width="900"/>
+</p>
 
 A Banking Management System built with C# and .NET, consisting of a RESTful Web API backend and a Windows Forms desktop client.
 
@@ -11,7 +15,7 @@ The project consists of two main applications:
 - Bank Backend (Server): An ASP.NET Core Web API responsible for handling business operations, database interactions, authentication, and authorization.
 - Bank UI (Client): A Windows Forms desktop application that communicates with the backend through HTTP requests and consumes its RESTful APIs.
 
-Technologies Used
+- ## Technologies Used
 
 - C#
 - .NET / ASP.NET Core Web API
@@ -23,7 +27,7 @@ Technologies Used
 - Refresh Token Mechanism
 - Dependency Injection
 
-Key Features
+- ## Key Features
 
 - User authentication and session management.
 - JWT-based authentication with refresh token support.
@@ -34,7 +38,7 @@ Key Features
 - Separation of concerns using a layered architecture.
 - HTTP communication between the desktop client and backend API.
 
-Project Structure
+- ## Project Structure
 
 Banking Management System
 │
@@ -63,6 +67,17 @@ Getting Started
 5. Run the backend API.
 6. Run the Windows Forms client.
 
+
+- ## 📌 Project Status
+
+✅ Completed
+
+This is a training project and may contain areas that could be improved or refactored as I continue learning.
+
+- ## 👨‍💻 Author
+- jafr jaber
+- 
+GitHub: "@jafr543" (https://github.com/jafr543)
 ---
 
 Note: The desktop client requires the backend API to be running to perform banking operations.
