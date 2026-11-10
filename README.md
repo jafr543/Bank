@@ -52,11 +52,11 @@ Banking Management System
     ├── Services
     └── Authentication & Session Management
 
-Demo
+- ## 🎥 Project Demo
 
-A video demonstrating the application in action is available here:
+Check out the project demo on LinkedIn:
 
-"Watch Project Demo" ()
+👉 [Watch the Demo on LinkedIn](https://lnkd.in/p/dKCSipzM)
 
 Getting Started
 
