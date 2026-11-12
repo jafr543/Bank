@@ -1,4 +1,5 @@
 ```mermaid
+
 erDiagram
     Countries {
         int CountryID PK
@@ -75,3 +76,5 @@ erDiagram
     Users ||--o{ Transactions : "creates"
     Users ||--o{ LoginSessions : "has"
     Users ||--o{ AuditLogs : "generates"
+
+```
